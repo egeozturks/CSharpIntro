@@ -1,0 +1,12 @@
+C:\Users\EGE\Desktop\Engin Demirog Dersler\CSharpIntro\TernaryOperator\obj\Debug\netcoreapp3.1\TernaryOperator.AssemblyInfoInputs.cache
+C:\Users\EGE\Desktop\Engin Demirog Dersler\CSharpIntro\TernaryOperator\obj\Debug\netcoreapp3.1\TernaryOperator.AssemblyInfo.cs
+C:\Users\EGE\Desktop\Engin Demirog Dersler\CSharpIntro\TernaryOperator\obj\Debug\netcoreapp3.1\TernaryOperator.csproj.CoreCompileInputs.cache
+C:\Users\EGE\Desktop\Engin Demirog Dersler\CSharpIntro\TernaryOperator\bin\Debug\netcoreapp3.1\TernaryOperator.exe
+C:\Users\EGE\Desktop\Engin Demirog Dersler\CSharpIntro\TernaryOperator\bin\Debug\netcoreapp3.1\TernaryOperator.deps.json
+C:\Users\EGE\Desktop\Engin Demirog Dersler\CSharpIntro\TernaryOperator\bin\Debug\netcoreapp3.1\TernaryOperator.runtimeconfig.json
+C:\Users\EGE\Desktop\Engin Demirog Dersler\CSharpIntro\TernaryOperator\bin\Debug\netcoreapp3.1\TernaryOperator.runtimeconfig.dev.json
+C:\Users\EGE\Desktop\Engin Demirog Dersler\CSharpIntro\TernaryOperator\bin\Debug\netcoreapp3.1\TernaryOperator.dll
+C:\Users\EGE\Desktop\Engin Demirog Dersler\CSharpIntro\TernaryOperator\bin\Debug\netcoreapp3.1\TernaryOperator.pdb
+C:\Users\EGE\Desktop\Engin Demirog Dersler\CSharpIntro\TernaryOperator\obj\Debug\netcoreapp3.1\TernaryOperator.dll
+C:\Users\EGE\Desktop\Engin Demirog Dersler\CSharpIntro\TernaryOperator\obj\Debug\netcoreapp3.1\TernaryOperator.pdb
+C:\Users\EGE\Desktop\Engin Demirog Dersler\CSharpIntro\TernaryOperator\obj\Debug\netcoreapp3.1\TernaryOperator.genruntimeconfig.cache

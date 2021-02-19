@@ -1,0 +1,15 @@
+C:\Users\EGE\Desktop\Engin Demirog Dersler\CSharpIntro\Project3\bin\Debug\netcoreapp3.1\Project3.exe
+C:\Users\EGE\Desktop\Engin Demirog Dersler\CSharpIntro\Project3\bin\Debug\netcoreapp3.1\Project3.deps.json
+C:\Users\EGE\Desktop\Engin Demirog Dersler\CSharpIntro\Project3\bin\Debug\netcoreapp3.1\Project3.runtimeconfig.json
+C:\Users\EGE\Desktop\Engin Demirog Dersler\CSharpIntro\Project3\bin\Debug\netcoreapp3.1\Project3.runtimeconfig.dev.json
+C:\Users\EGE\Desktop\Engin Demirog Dersler\CSharpIntro\Project3\bin\Debug\netcoreapp3.1\Project3.dll
+C:\Users\EGE\Desktop\Engin Demirog Dersler\CSharpIntro\Project3\bin\Debug\netcoreapp3.1\Project3.pdb
+C:\Users\EGE\Desktop\Engin Demirog Dersler\CSharpIntro\Project3\obj\Debug\netcoreapp3.1\Project3.csprojAssemblyReference.cache
+C:\Users\EGE\Desktop\Engin Demirog Dersler\CSharpIntro\Project3\obj\Debug\netcoreapp3.1\Project3.Form1.resources
+C:\Users\EGE\Desktop\Engin Demirog Dersler\CSharpIntro\Project3\obj\Debug\netcoreapp3.1\Project3.csproj.GenerateResource.cache
+C:\Users\EGE\Desktop\Engin Demirog Dersler\CSharpIntro\Project3\obj\Debug\netcoreapp3.1\Project3.AssemblyInfoInputs.cache
+C:\Users\EGE\Desktop\Engin Demirog Dersler\CSharpIntro\Project3\obj\Debug\netcoreapp3.1\Project3.AssemblyInfo.cs
+C:\Users\EGE\Desktop\Engin Demirog Dersler\CSharpIntro\Project3\obj\Debug\netcoreapp3.1\Project3.csproj.CoreCompileInputs.cache
+C:\Users\EGE\Desktop\Engin Demirog Dersler\CSharpIntro\Project3\obj\Debug\netcoreapp3.1\Project3.dll
+C:\Users\EGE\Desktop\Engin Demirog Dersler\CSharpIntro\Project3\obj\Debug\netcoreapp3.1\Project3.pdb
+C:\Users\EGE\Desktop\Engin Demirog Dersler\CSharpIntro\Project3\obj\Debug\netcoreapp3.1\Project3.genruntimeconfig.cache
