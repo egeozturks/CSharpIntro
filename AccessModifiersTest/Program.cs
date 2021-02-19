@@ -8,6 +8,7 @@ namespace AccessModifiersTest
         static void Main(string[] args)
         {
             House house = new House();
+            
         }
     }
 }

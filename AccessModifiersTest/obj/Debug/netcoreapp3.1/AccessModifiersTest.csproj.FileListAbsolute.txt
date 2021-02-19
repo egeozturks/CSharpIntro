@@ -1,0 +1,17 @@
+C:\Users\EGE\Desktop\Engin Demirog Dersler\CSharpIntro\AccessModifiersTest\obj\Debug\netcoreapp3.1\AccessModifiersTest.csprojAssemblyReference.cache
+C:\Users\EGE\Desktop\Engin Demirog Dersler\CSharpIntro\AccessModifiersTest\obj\Debug\netcoreapp3.1\AccessModifiersTest.AssemblyInfoInputs.cache
+C:\Users\EGE\Desktop\Engin Demirog Dersler\CSharpIntro\AccessModifiersTest\obj\Debug\netcoreapp3.1\AccessModifiersTest.AssemblyInfo.cs
+C:\Users\EGE\Desktop\Engin Demirog Dersler\CSharpIntro\AccessModifiersTest\obj\Debug\netcoreapp3.1\AccessModifiersTest.csproj.CoreCompileInputs.cache
+C:\Users\EGE\Desktop\Engin Demirog Dersler\CSharpIntro\AccessModifiersTest\bin\Debug\netcoreapp3.1\AccessModifiers.exe
+C:\Users\EGE\Desktop\Engin Demirog Dersler\CSharpIntro\AccessModifiersTest\bin\Debug\netcoreapp3.1\AccessModifiersTest.exe
+C:\Users\EGE\Desktop\Engin Demirog Dersler\CSharpIntro\AccessModifiersTest\bin\Debug\netcoreapp3.1\AccessModifiersTest.deps.json
+C:\Users\EGE\Desktop\Engin Demirog Dersler\CSharpIntro\AccessModifiersTest\bin\Debug\netcoreapp3.1\AccessModifiersTest.runtimeconfig.json
+C:\Users\EGE\Desktop\Engin Demirog Dersler\CSharpIntro\AccessModifiersTest\bin\Debug\netcoreapp3.1\AccessModifiersTest.runtimeconfig.dev.json
+C:\Users\EGE\Desktop\Engin Demirog Dersler\CSharpIntro\AccessModifiersTest\bin\Debug\netcoreapp3.1\AccessModifiersTest.dll
+C:\Users\EGE\Desktop\Engin Demirog Dersler\CSharpIntro\AccessModifiersTest\bin\Debug\netcoreapp3.1\AccessModifiersTest.pdb
+C:\Users\EGE\Desktop\Engin Demirog Dersler\CSharpIntro\AccessModifiersTest\bin\Debug\netcoreapp3.1\AccessModifiers.dll
+C:\Users\EGE\Desktop\Engin Demirog Dersler\CSharpIntro\AccessModifiersTest\bin\Debug\netcoreapp3.1\AccessModifiers.pdb
+C:\Users\EGE\Desktop\Engin Demirog Dersler\CSharpIntro\AccessModifiersTest\obj\Debug\netcoreapp3.1\AccessModifiersTest.csproj.CopyComplete
+C:\Users\EGE\Desktop\Engin Demirog Dersler\CSharpIntro\AccessModifiersTest\obj\Debug\netcoreapp3.1\AccessModifiersTest.dll
+C:\Users\EGE\Desktop\Engin Demirog Dersler\CSharpIntro\AccessModifiersTest\obj\Debug\netcoreapp3.1\AccessModifiersTest.pdb
+C:\Users\EGE\Desktop\Engin Demirog Dersler\CSharpIntro\AccessModifiersTest\obj\Debug\netcoreapp3.1\AccessModifiersTest.genruntimeconfig.cache
