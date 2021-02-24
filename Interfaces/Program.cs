@@ -17,7 +17,7 @@ namespace Interfaces
             projectManager.Add(new EmployeeManager());
 
             //the intern class added after when project is done but nothing changed, just created a new class cause implemented by interface
-            projectManager.Add(new InternManager())
+            projectManager.Add(new InternManager());
         }
     }
 

@@ -1,0 +1,12 @@
+C:\Users\EGE\Desktop\Engin Demirog Dersler\CSharpIntro\Project4.DataAccess\bin\Debug\netstandard2.0\Project4.DataAccess.deps.json
+C:\Users\EGE\Desktop\Engin Demirog Dersler\CSharpIntro\Project4.DataAccess\bin\Debug\netstandard2.0\Project4.DataAccess.dll
+C:\Users\EGE\Desktop\Engin Demirog Dersler\CSharpIntro\Project4.DataAccess\bin\Debug\netstandard2.0\Project4.DataAccess.pdb
+C:\Users\EGE\Desktop\Engin Demirog Dersler\CSharpIntro\Project4.DataAccess\bin\Debug\netstandard2.0\Project4.Entities.dll
+C:\Users\EGE\Desktop\Engin Demirog Dersler\CSharpIntro\Project4.DataAccess\bin\Debug\netstandard2.0\Project4.Entities.pdb
+C:\Users\EGE\Desktop\Engin Demirog Dersler\CSharpIntro\Project4.DataAccess\obj\Debug\netstandard2.0\Project4.DataAccess.csprojAssemblyReference.cache
+C:\Users\EGE\Desktop\Engin Demirog Dersler\CSharpIntro\Project4.DataAccess\obj\Debug\netstandard2.0\Project4.DataAccess.AssemblyInfoInputs.cache
+C:\Users\EGE\Desktop\Engin Demirog Dersler\CSharpIntro\Project4.DataAccess\obj\Debug\netstandard2.0\Project4.DataAccess.AssemblyInfo.cs
+C:\Users\EGE\Desktop\Engin Demirog Dersler\CSharpIntro\Project4.DataAccess\obj\Debug\netstandard2.0\Project4.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\EGE\Desktop\Engin Demirog Dersler\CSharpIntro\Project4.DataAccess\obj\Debug\netstandard2.0\Project4.DataAccess.csproj.CopyComplete
+C:\Users\EGE\Desktop\Engin Demirog Dersler\CSharpIntro\Project4.DataAccess\obj\Debug\netstandard2.0\Project4.DataAccess.dll
+C:\Users\EGE\Desktop\Engin Demirog Dersler\CSharpIntro\Project4.DataAccess\obj\Debug\netstandard2.0\Project4.DataAccess.pdb

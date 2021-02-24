@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "9rDNmyj8juqzxM0cSNN8S2+X/DCjrPQrz6FVWKE64VW5aQ9XST01jnAb+c/OEOh/NEnjP/rbDjB8mAqqGkg1Kw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\EGE\\Desktop\\Engin Demirog Dersler\\CSharpIntro\\Project4.Entities\\Project4.Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\EGE\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\EGE\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

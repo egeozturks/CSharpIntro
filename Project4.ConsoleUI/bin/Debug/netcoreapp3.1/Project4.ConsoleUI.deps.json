@@ -1,0 +1,63 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Project4.ConsoleUI/1.0.0": {
+        "dependencies": {
+          "Project4.Business": "1.0.0"
+        },
+        "runtime": {
+          "Project4.ConsoleUI.dll": {}
+        }
+      },
+      "Project4.Business/1.0.0": {
+        "dependencies": {
+          "Project4.DataAccess": "1.0.0",
+          "Project4.Entities": "1.0.0"
+        },
+        "runtime": {
+          "Project4.Business.dll": {}
+        }
+      },
+      "Project4.DataAccess/1.0.0": {
+        "dependencies": {
+          "Project4.Entities": "1.0.0"
+        },
+        "runtime": {
+          "Project4.DataAccess.dll": {}
+        }
+      },
+      "Project4.Entities/1.0.0": {
+        "runtime": {
+          "Project4.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Project4.ConsoleUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Project4.Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Project4.DataAccess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Project4.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

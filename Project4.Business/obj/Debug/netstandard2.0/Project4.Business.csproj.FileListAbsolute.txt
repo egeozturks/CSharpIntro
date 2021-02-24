@@ -1,0 +1,14 @@
+C:\Users\EGE\Desktop\Engin Demirog Dersler\CSharpIntro\Project4.Business\bin\Debug\netstandard2.0\Project4.Business.deps.json
+C:\Users\EGE\Desktop\Engin Demirog Dersler\CSharpIntro\Project4.Business\bin\Debug\netstandard2.0\Project4.Business.dll
+C:\Users\EGE\Desktop\Engin Demirog Dersler\CSharpIntro\Project4.Business\bin\Debug\netstandard2.0\Project4.Business.pdb
+C:\Users\EGE\Desktop\Engin Demirog Dersler\CSharpIntro\Project4.Business\bin\Debug\netstandard2.0\Project4.DataAccess.dll
+C:\Users\EGE\Desktop\Engin Demirog Dersler\CSharpIntro\Project4.Business\bin\Debug\netstandard2.0\Project4.Entities.dll
+C:\Users\EGE\Desktop\Engin Demirog Dersler\CSharpIntro\Project4.Business\bin\Debug\netstandard2.0\Project4.DataAccess.pdb
+C:\Users\EGE\Desktop\Engin Demirog Dersler\CSharpIntro\Project4.Business\bin\Debug\netstandard2.0\Project4.Entities.pdb
+C:\Users\EGE\Desktop\Engin Demirog Dersler\CSharpIntro\Project4.Business\obj\Debug\netstandard2.0\Project4.Business.csprojAssemblyReference.cache
+C:\Users\EGE\Desktop\Engin Demirog Dersler\CSharpIntro\Project4.Business\obj\Debug\netstandard2.0\Project4.Business.AssemblyInfoInputs.cache
+C:\Users\EGE\Desktop\Engin Demirog Dersler\CSharpIntro\Project4.Business\obj\Debug\netstandard2.0\Project4.Business.AssemblyInfo.cs
+C:\Users\EGE\Desktop\Engin Demirog Dersler\CSharpIntro\Project4.Business\obj\Debug\netstandard2.0\Project4.Business.csproj.CoreCompileInputs.cache
+C:\Users\EGE\Desktop\Engin Demirog Dersler\CSharpIntro\Project4.Business\obj\Debug\netstandard2.0\Project4.Business.csproj.CopyComplete
+C:\Users\EGE\Desktop\Engin Demirog Dersler\CSharpIntro\Project4.Business\obj\Debug\netstandard2.0\Project4.Business.dll
+C:\Users\EGE\Desktop\Engin Demirog Dersler\CSharpIntro\Project4.Business\obj\Debug\netstandard2.0\Project4.Business.pdb
