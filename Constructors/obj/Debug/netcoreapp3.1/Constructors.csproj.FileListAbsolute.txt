@@ -10,3 +10,4 @@ C:\Users\EGE\Desktop\Engin Demirog Dersler\CSharpIntro\Constructors\bin\Debug\ne
 C:\Users\EGE\Desktop\Engin Demirog Dersler\CSharpIntro\Constructors\obj\Debug\netcoreapp3.1\Constructors.dll
 C:\Users\EGE\Desktop\Engin Demirog Dersler\CSharpIntro\Constructors\obj\Debug\netcoreapp3.1\Constructors.pdb
 C:\Users\EGE\Desktop\Engin Demirog Dersler\CSharpIntro\Constructors\obj\Debug\netcoreapp3.1\Constructors.genruntimeconfig.cache
+C:\Users\EGE\Desktop\Engin Demirog Dersler\CSharpIntro\Constructors\obj\Debug\netcoreapp3.1\Constructors.csprojAssemblyReference.cache

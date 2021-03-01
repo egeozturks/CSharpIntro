@@ -12,3 +12,4 @@ C:\Users\EGE\Desktop\Engin Demirog Dersler\CSharpIntro\Project2\obj\Debug\netcor
 C:\Users\EGE\Desktop\Engin Demirog Dersler\CSharpIntro\Project2\obj\Debug\netcoreapp3.1\Project2.dll
 C:\Users\EGE\Desktop\Engin Demirog Dersler\CSharpIntro\Project2\obj\Debug\netcoreapp3.1\Project2.pdb
 C:\Users\EGE\Desktop\Engin Demirog Dersler\CSharpIntro\Project2\obj\Debug\netcoreapp3.1\Project2.genruntimeconfig.cache
+C:\Users\EGE\Desktop\Engin Demirog Dersler\CSharpIntro\Project2\obj\Debug\netcoreapp3.1\Project2.csprojAssemblyReference.cache

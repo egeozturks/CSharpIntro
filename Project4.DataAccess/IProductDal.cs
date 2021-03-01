@@ -5,9 +5,8 @@ using System.Text;
 
 namespace Project4.DataAccess
 {
-    public interface IProductDal
+    public interface IProductDal : IEntityRepository<Product>
     {
-        List<Product> GetAll();
-        void Add(Product product);
+        
     }
 }

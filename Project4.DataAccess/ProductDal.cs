@@ -6,7 +6,7 @@ using System.Text;
 namespace Project4.DataAccess
 {
     // Dal = Data Access Layer
-    public class ProductDal:IProductDal
+    public class ProductDal : IProductDal
     {
         //Ado.NET
         List<Product> _products;
@@ -27,9 +27,24 @@ namespace Project4.DataAccess
             Console.WriteLine("Ado.NET ile Eklendi");
         }
 
+        public void Delete(Product product)
+        {
+            throw new NotImplementedException();
+        }
+
         public List<Product> GetAll()
         {
             return _products;
+        }
+
+        public List<Product> GetById()
+        {
+            throw new NotImplementedException();
+        }
+
+        public void Update(Product product)
+        {
+            throw new NotImplementedException();
         }
     }
 }
