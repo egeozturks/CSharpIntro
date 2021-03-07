@@ -16,6 +16,17 @@ namespace Project4.ConsoleUI
             {
                 Console.WriteLine(product.ProductName);
             }
+
+            try
+            {
+                productManager.Add(new Entities.Product { ProductID = 10, ProductName = "Laptop", QuantityPerUnit = "4 Ayaklı masa", UnitPrice = 1000, UnitsInStock = 10 });
+            }
+            catch (DuplicateProductException exception)
+            {
+
+                Console.WriteLine(exception.Message);
+            }
+            
         }
     }
 }

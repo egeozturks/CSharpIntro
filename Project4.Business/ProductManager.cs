@@ -6,7 +6,7 @@ using System.Text;
 
 namespace Project4.Business
 {
-    public class ProductManager
+    public class ProductManager : IProductService
     {
         IProductDal _productDal;
 
@@ -14,6 +14,16 @@ namespace Project4.Business
         {
             _productDal = productDal;
         }
+
+        public void Add(Product product)
+        {
+            if (product.ProductName == "Laptop")
+            {
+                throw new DuplicateProductException("Laptop ekleyemezsiniz");
+            }
+            _productDal.Add(product);
+        }
+
         public List<Product> GetAll()
         {
 
