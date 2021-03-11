@@ -35,8 +35,41 @@ namespace LinqProject
 
             //AscDescTest(products);
 
+            //ClassicLinqBasicTest(products);
+
+            //ClassicLinqTest(products);
+
             var result = from p in products
-                         where p.UnitPrice>6000 && p.UnitsInStock>2
+                         join c in categories
+                         on p.CategoryId equals c.CategoryId
+                         where p.UnitPrice > 5000 && p.UnitsInStock > 3
+                         orderby p.UnitPrice descending, p.ProductName ascending
+                         select new ProductDto { ProductId = p.ProductId, CategoryName = c.CategoryName, ProductName = p.ProductName, UnitPrice = p.UnitPrice };
+
+            foreach (var productDto in result)
+            {
+                Console.WriteLine("{0} --- {1}", productDto.ProductName, productDto.CategoryName);
+            }
+
+        }
+
+        private static void ClassicLinqTest(List<Product> products)
+        {
+            var result = from p in products
+                         where p.UnitPrice > 6000 && p.UnitsInStock > 2
+                         orderby p.UnitPrice descending, p.ProductName ascending
+                         select new ProductDto { ProductId = p.ProductId, ProductName = p.ProductName, UnitPrice = p.UnitPrice };
+
+            foreach (var product in result)
+            {
+                Console.WriteLine(product.ProductName);
+            }
+        }
+
+        private static void ClassicLinqBasicTest(List<Product> products)
+        {
+            var result = from p in products
+                         where p.UnitPrice > 6000 && p.UnitsInStock > 2
                          orderby p.UnitPrice descending, p.ProductName ascending
                          select p;
 
@@ -44,9 +77,8 @@ namespace LinqProject
             {
                 Console.WriteLine(product.ProductName);
             }
-
         }
-        
+
         private static void NewMethod(List<Product> products)
         {
             //Single line query
@@ -119,6 +151,14 @@ namespace LinqProject
         {
             return products.Where(p => p.UnitPrice > 5000 && p.UnitsInStock > 3).ToList();
         }
+    }
+
+    class ProductDto //Data Transformation Object
+    {
+        public int ProductId { get; set; }
+        public string CategoryName { get; set; }
+        public string ProductName { get; set; }
+        public decimal UnitPrice { get; set; }
     }
     class Product
     {
