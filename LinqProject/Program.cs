@@ -23,6 +23,61 @@ namespace LinqProject
                 new Product{ProductId=1, CategoryId=1, ProductName="Apple Laptop", QuantityPerUnit="4 GB Ram", UnitPrice=8000, UnitsInStock=0}
             };
 
+            //Test(products);
+
+            //GetProducts(products);
+
+            //AnyTest(products);
+
+            //FindTest(products);
+
+            //FindAllTest(products);
+
+            //AscDescTest(products);
+
+            var result = from p in products
+                         where p.UnitPrice>6000 && p.UnitsInStock>2
+                         orderby p.UnitPrice descending, p.ProductName ascending
+                         select p;
+
+            foreach (var product in result)
+            {
+                Console.WriteLine(product.ProductName);
+            }
+
+        }
+        
+        private static void NewMethod(List<Product> products)
+        {
+            //Single line query
+            var result = products.Where(p => p.ProductName.Contains("top")).OrderByDescending(p => p.UnitPrice).ThenBy(p => p.ProductName);
+            foreach (var product in result)
+            {
+                Console.WriteLine(product.ProductName);
+            }
+        }
+
+        private static void FindAllTest(List<Product> products)
+        {
+            var result = products.FindAll(p => p.ProductName.Contains("top"));
+            Console.WriteLine(result);
+        }
+
+        private static void FindTest(List<Product> products)
+        {
+            //lambda
+            var result = products.Find(p => p.ProductId == 3);
+            Console.WriteLine(result.ProductName);
+        }
+
+        private static void AnyTest(List<Product> products)
+        {
+            var result = products.Any(p => p.ProductName == "Acer Laptop");
+            Console.WriteLine(result);
+        }
+
+        private static void Test(List<Product> products)
+        {
             Console.WriteLine("Algoritmik---------------");
             foreach (var p in products)
             {
@@ -39,11 +94,9 @@ namespace LinqProject
             {
                 Console.WriteLine(p.ProductName);
             }
-
-            GetProducts(products);
         }
 
-        
+
 
         //Writes without Linq
         static List<Product> GetProducts(List<Product> products)
